@@ -1,0 +1,5 @@
+public staic void main(String[] agrs){
+     Systrm.out.println("Hello World.")
+
+
+}
